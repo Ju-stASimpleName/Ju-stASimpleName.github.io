@@ -1,0 +1,24 @@
+h1{
+font-size: 40px;
+text-align: center;
+color: #de7471;
+font-family: fantasy;, sans-serif;
+}
+
+h2{
+font-size: 30px;
+text-align: left;
+color: #de7471;
+font-family: fantasy;, sans-serif;
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: fantasy;, sans-serif;
+color: #de7471
+}
+
+body {
+background-color: #242423;
+}
